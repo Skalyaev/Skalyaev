@@ -1,12 +1,12 @@
 # :star: A road as a cybersecurity specialist :star:
 > Cette page présente mon expérience post-bac.
-## [42](https://42.fr/) - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
+## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 - [x] Terminer le [tronc commun](https://github.com/Skalyaeve/42_common_core) ─> **(1 / 1)**
 - [x] Terminer **3 projets** de la [branche sécurité](https://github.com/Skalyaeve/42_security) pour au moins **50.000 exp** ─> **(4 / 3)** - **(87.937 / 50.000)** `validation en cours`
 - [ ] Terminer **2 projets** de la [branche unix / kernel](https://github.com/Skalyaeve/42_unix-Kernel) pour au moins **30.000 exp** ─> **(1 / 2)** - **(1.207 / 30.000)** `validation en cours`
 - [ ] Terminer **3 projets** de la [branche admin sys](https://github.com/Skalyaeve/42_sys_admin) pour au moins **50.000 exp** ─> **(0 / 3)** - **(0 / 50.000)**
 - [ ] Faire **2 stages** ─> **(0 / 2)**
-> 42 forme d'excellents programmeurs.
+> [42](https://42.fr/) forme d'excellents programmeurs.
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
 - [ ] Passer **top 100** ─> **# 3368**
@@ -26,7 +26,7 @@
 - [ ] Terminer la branche [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/) ─> **2%**
 </details>
 
-> Root me est un challenge cybersécurité de taille.
+> [Root me](https://www.root-me.org) est un challenge cybersécurité de taille.
 
 ## `new` [Hack The Box](https://www.root-me.org/Skalyaeve)
 ### [Academy](https://academy.hackthebox.com/catalogue)
@@ -62,7 +62,7 @@
 - [ ] Terminer les box **Other** ─> **0%**
 </details>
 
-> Hack The Box est une formation cybersécurité complète.
+> [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète.
 #
 *Mise à jour le 26/01/24*
 ###### Ci-dessous, mes dépôts git publiques:
