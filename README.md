@@ -32,26 +32,26 @@
 
 ## `new` [Hack The Box](https://app.hackthebox.com/profile/1772537)
 ### [Academy](https://academy.hackthebox.com/catalogue)
-- [ ] Terminer les modules **"General"**  ─> **87%**
-- [ ] Terminer les modules **"Red Team"**  ─> **23%**
-- [ ] Terminer les modules **"Blue Team"**  ─> **11%**
+- [ ] Terminer les modules "**General**"  ─> **87%**
+- [ ] Terminer les modules "**Red Team**"  ─> **23%**
+- [ ] Terminer les modules "**Blue Team**"  ─> **11%**
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
 <details><summary>Détails
 
 - [ ] Terminer les **challenges** ─> **0%**
 </summary>
 
-- [ ] Terminer les challenges **Reversing** ─> **2%**
-- [ ] Terminer les challenges **Web** ─> **0%**
-- [ ] Terminer les challenges **Mobile** ─> **0%**
-- [ ] Terminer les challenges **Pwn** ─> **1%**
-- [ ] Terminer les challenges **GamePwn** ─> **0%**
-- [ ] Terminer les challenges **Misc** ─> **0%**
-- [ ] Terminer les challenges **Crypto** ─> **1%**
-- [ ] Terminer les challenges **Forensics** ─> **0%**
-- [ ] Terminer les challenges **OSINT** ─> **0%**
-- [ ] Terminer les challenges **Hardware** ─> **0%**
-- [ ] Terminer les challenges **Blockchain** ─> **0%**
+- [ ] Terminer les challenges "**Reversing**" ─> **2%**
+- [ ] Terminer les challenges "**Web**" ─> **0%**
+- [ ] Terminer les challenges "**Mobile**" ─> **0%**
+- [ ] Terminer les challenges "**Pwn**" ─> **1%**
+- [ ] Terminer les challenges "**GamePwn**" ─> **0%**
+- [ ] Terminer les challenges "**Misc**" ─> **0%**
+- [ ] Terminer les challenges "**Crypto**" ─> **1%**
+- [ ] Terminer les challenges "**Forensics**" ─> **0%**
+- [ ] Terminer les challenges "**OSINT**" ─> **0%**
+- [ ] Terminer les challenges "**Hardware**" ─> **0%**
+- [ ] Terminer les challenges "**Blockchain**" ─> **0%**
 </details>
 
 <details><summary>Détails
@@ -59,13 +59,13 @@
 - [ ] Terminer les **box** ─> **0%**
 </summary>
 
-- [ ] Terminer les box **Linux** ─> **0%**
-- [ ] Terminer les box **Windows** ─> **1%**
-- [ ] Terminer les box **Android** ─> **0%**
-- [ ] Terminer les box **OpenBSD** ─> **0%**
-- [ ] Terminer les box **FreeBSD** ─> **0%**
-- [ ] Terminer les box **Solaris** ─> **0%**
-- [ ] Terminer les box **Other** ─> **0%**
+- [ ] Terminer les box "**Linux**" ─> **0%**
+- [ ] Terminer les box "**Windows**" ─> **1%**
+- [ ] Terminer les box "**Android**" ─> **0%**
+- [ ] Terminer les box "**OpenBSD**" ─> **0%**
+- [ ] Terminer les box "**FreeBSD**" ─> **0%**
+- [ ] Terminer les box "**Solaris**" ─> **0%**
+- [ ] Terminer les box "**Other**" ─> **0%**
 </details>
 
 > [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète.
