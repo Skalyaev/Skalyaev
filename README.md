@@ -10,6 +10,7 @@
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
 - [ ] Passer **top 100** ─> **# 3368**
+- [ ] Terminer les challenges ─> **27%**
 <details><summary>Détails</summary>
 
 - [ ] Terminer la branche [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
