@@ -29,10 +29,10 @@
 > Root me est un challenge cybersécurité de taille.
 
 ## `new` [Hack The Box](https://www.root-me.org/Skalyaeve)
-### [Academy](https://academy.hackthebox.com/catalogue/paths)
-- [ ] Terminer la partie **"General"**  ─> **87%**
-- [ ] Terminer la partie **"Red Team"**  ─> **23%**
-- [ ] Terminer la partie **"Blue Team"**  ─> **11%**
+### [Academy](https://academy.hackthebox.com/catalogue)
+- [ ] Terminer les modules **"General"**  ─> **87%**
+- [ ] Terminer les modules **"Red Team"**  ─> **23%**
+- [ ] Terminer les modules **"Blue Team"**  ─> **11%**
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
 - [ ] Terminer les challenges ─> **0%**
 <details><summary>Détails</summary>
