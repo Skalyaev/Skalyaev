@@ -2,15 +2,15 @@
 > Cette page présente mon expérience post-bac.
 ## [42](https://42.fr/) - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 - [x] Terminer le [tronc commun](https://github.com/Skalyaeve/42_common_core) ─> **(1 / 1)**
-- [x] Terminer **3** projets de la [branche sécurité](https://github.com/Skalyaeve/42_security) pour au moins **50.000 exp** ─> **(4 / 3)** - **(87.937 / 50.000)** `validation en cours`
-- [ ] Terminer **2** projets de la [branche unix / kernel](https://github.com/Skalyaeve/42_unix-Kernel) pour au moins **30.000 exp** ─> **(1 / 2)** - **(1.207 / 30.000)** `validation en cours`
-- [ ] Terminer **3** projets de la [branche admin sys](https://github.com/Skalyaeve/42_sys_admin) pour au moins **50.000 exp** ─> **(0 / 3)** - **(0 / 50.000)**
+- [x] Terminer **3 projets** de la [branche sécurité](https://github.com/Skalyaeve/42_security) pour au moins **50.000 exp** ─> **(4 / 3)** - **(87.937 / 50.000)** `validation en cours`
+- [ ] Terminer **2 projets** de la [branche unix / kernel](https://github.com/Skalyaeve/42_unix-Kernel) pour au moins **30.000 exp** ─> **(1 / 2)** - **(1.207 / 30.000)** `validation en cours`
+- [ ] Terminer **3 projets** de la [branche admin sys](https://github.com/Skalyaeve/42_sys_admin) pour au moins **50.000 exp** ─> **(0 / 3)** - **(0 / 50.000)**
 - [ ] Faire **2 stages** ─> **(0 / 2)**
 > 42 forme d'excellents programmeurs.
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
 - [ ] Passer **top 100** ─> **# 3368**
-- [ ] Terminer les challenges ─> **27%**
+- [ ] Terminer les **challenges** ─> **27%**
 <details><summary>Détails</summary>
 
 - [ ] Terminer la branche [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
