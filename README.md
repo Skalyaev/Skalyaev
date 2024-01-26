@@ -19,7 +19,7 @@
   - [ ] Terminer la branche **Stéganographie**  ─> **26%**
   - [ ] Terminer la branche **Forensic**  ─> **2%**
   - [ ] Terminer la branche **Réaliste**  ─> **2%**
-  - [ ] Passer top 100 ─> **#3368**
+  - [ ] Passer **top 100** ─> **#3368**
 
 *Mise à jour le 26/01/24*
 ###### Ci-dessous, mes dépôts git publiques:
