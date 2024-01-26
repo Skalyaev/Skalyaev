@@ -35,6 +35,13 @@
 - [ ] Terminer les modules "**General**"  ─> **87%**
 - [ ] Terminer les modules "**Red Team**"  ─> **23%**
 - [ ] Terminer les modules "**Blue Team**"  ─> **11%**
+<details><summary>Détails</summary>
+
+- [ ] [Penetration Tester]() job role path  ─> **43%**
+- [ ] [Bug Bounty Hunter]() job role path  ─> **47%**
+- [ ] [SOC Analyst]() job role path  ─> **27%**
+</details>
+
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
 <details><summary>Détails
 
