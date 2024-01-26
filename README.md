@@ -10,8 +10,10 @@
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
 - [ ] Passer **top 100** ─> **# 3368**
+<details><summary>Détails
+  
 - [ ] Terminer les **challenges** ─> **27%**
-<details><summary>Détails</summary>
+</summary>
 
 - [ ] Terminer la branche [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
 - [ ] Terminer la branche [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/) ─> **21%**
@@ -34,8 +36,10 @@
 - [ ] Terminer les modules **"Red Team"**  ─> **23%**
 - [ ] Terminer les modules **"Blue Team"**  ─> **11%**
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
+<details><summary>Détails
+
 - [ ] Terminer les **challenges** ─> **0%**
-<details><summary>Détails</summary>
+</summary>
 
 - [ ] Terminer les challenges **Reversing** ─> **2%**
 - [ ] Terminer les challenges **Crypto** ─> **1%**
@@ -50,8 +54,10 @@
 - [ ] Terminer les challenges **Blockchain** ─> **0%**
 </details>
 
+<details><summary>Détails
+  
 - [ ] Terminer les **box** ─> **0%**
-<details><summary>Détails</summary>
+</summary>
 
 - [ ] Terminer les box **Linux** ─> **0%**
 - [ ] Terminer les box **Windows** ─> **1%**
