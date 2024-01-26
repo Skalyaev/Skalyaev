@@ -68,7 +68,7 @@
 - [ ] Terminer les box **Other** ─> **0%**
 </details>
 
-> [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète.
+> [Hack The Box](https://www.hackthebox.com/) est la plateforme cybersécurité #1.
 #
 *Mise à jour le 26/01/24*
 ###### Ci-dessous, mes dépôts git publiques:
