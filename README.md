@@ -6,7 +6,6 @@
 - [ ] Terminer **2** projets de la [branche unix / kernel](https://github.com/Skalyaeve/42_unix-Kernel) pour au moins **30.000 exp** ─> **(1 / 2)** - **(1.207 / 30.000)** `validation en cours`
 - [ ] Terminer **3** projets de la [branche admin sys](https://github.com/Skalyaeve/42_sys_admin) pour au moins **50.000 exp** ─> **(0 / 3)** - **(0 / 50.000)**
 - [ ] Faire **2 stages** ─> **(0 / 2)**
-- [ ] Passer **niveau 21** ─> **(11 / 21)** `validation en cours`
 > 42 forme d'excellents programmeurs.
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
