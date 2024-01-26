@@ -34,7 +34,7 @@
 - [ ] Terminer la partie **"Red Team"**  ─> **23%**
 - [ ] Terminer la partie **"Blue Team"**  ─> **11%**
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
-- [ ] Terminer les challenges ─> **(0 / 1)**
+- [ ] Terminer les challenges ─> **0%**
 <details><summary>Détails</summary>
 
 - [ ] Terminer les challenges **Reversing** ─> **2%**
@@ -50,7 +50,7 @@
 - [ ] Terminer les challenges **Blockchain** ─> **0%**
 </details>
 
-- [ ] Terminer les box ─> **(0 / 1)**
+- [ ] Terminer les box ─> **0%**
 <details><summary>Détails</summary>
 
 - [ ] Terminer les box **Linux** ─> **0%**
