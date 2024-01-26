@@ -13,17 +13,17 @@
   - [ ] Passer **top 100** ─> **# 3368**
 <details><summary>Détails</summary>
 
-  - [ ] Terminer la branche **Programmation** ─> **86%**
-  - [ ] Terminer la branche **App - Système** ─> **21%**
-  - [ ] Terminer la branche **App - Script** ─> **78%**
-  - [ ] Terminer la branche **Cracking** ─> **30%**
-  - [ ] Terminer la branche **Réseau** ─> **56%**
-  - [ ] Terminer la branche **Web - Client** ─> **22%**
-  - [ ] Terminer la branche **Web - Serveur** ─> **23%**
-  - [ ] Terminer la branche **Cryptanalyse** ─> **25%**
-  - [ ] Terminer la branche **Stéganographie** ─> **26%**
-  - [ ] Terminer la branche **Forensic** ─> **2%**
-  - [ ] Terminer la branche **Réaliste** ─> **2%**
+  - [ ] Terminer la branche [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
+  - [ ] Terminer la branche [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/) ─> **21%**
+  - [ ] Terminer la branche [App - Script](https://www.root-me.org/fr/Challenges/App-Script/) ─> **78%**
+  - [ ] Terminer la branche [Cracking](https://www.root-me.org/fr/Challenges/Cracking/) ─> **30%**
+  - [ ] Terminer la branche [Réseau](https://www.root-me.org/fr/Challenges/Reseau/) ─> **56%**
+  - [ ] Terminer la branche [Web - Client](https://www.root-me.org/fr/Challenges/Web-Client/) ─> **22%**
+  - [ ] Terminer la branche [Web - Serveur](https://www.root-me.org/fr/Challenges/Web-Serveur/) ─> **23%**
+  - [ ] Terminer la branche [Cryptanalyse](https://www.root-me.org/fr/Challenges/Cryptanalyse/) ─> **25%**
+  - [ ] Terminer la branche [Stéganographie](https://www.root-me.org/fr/Challenges/Steganographie/) ─> **26%**
+  - [ ] Terminer la branche [Forensic](https://www.root-me.org/fr/Challenges/Forensic/) ─> **2%**
+  - [ ] Terminer la branche [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/) ─> **2%**
 </details>
 
 > Root me est un challenge cybersécurité de taille.
@@ -56,7 +56,7 @@
   - [ ] Terminer les challenges **Blockchain** ─> **0%**
 </details>
 
-> Hack The Box est une excellente formation cybersécurité.
+> Hack The Box est une formation cybersécurité complète.
 
 *Mise à jour le 26/01/24*
 ###### Ci-dessous, mes dépôts git publiques:
