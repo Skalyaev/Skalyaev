@@ -34,15 +34,9 @@
 - [ ] Terminer la partie **"Red Team"**  ─> **23%**
 - [ ] Terminer la partie **"Blue Team"**  ─> **11%**
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
+- [ ] Terminer les challenges
 <details><summary>Détails</summary>
 
-- [ ] Terminer les box **Linux** ─> **0%**
-- [ ] Terminer les box **Windows** ─> **1%**
-- [ ] Terminer les box **OpenBSD** ─> **0%**
-- [ ] Terminer les box **FreeBSD** ─> **0%**
-- [ ] Terminer les box **Solaris** ─> **0%**
-- [ ] Terminer les box **Android** ─> **0%**
-- [ ] Terminer les box **Other** ─> **0%**
 - [ ] Terminer les challenges **Reversing** ─> **2%**
 - [ ] Terminer les challenges **Crypto** ─> **1%**
 - [ ] Terminer les challenges **Pwn** ─> **1%**
@@ -56,7 +50,19 @@
 - [ ] Terminer les challenges **Blockchain** ─> **0%**
 </details>
 
-> Hack The Box est une formation cybersécurité complète.
+- [ ] Terminer les box
+<details><summary>Détails</summary>
 
+- [ ] Terminer les box **Linux** ─> **0%**
+- [ ] Terminer les box **Windows** ─> **1%**
+- [ ] Terminer les box **OpenBSD** ─> **0%**
+- [ ] Terminer les box **FreeBSD** ─> **0%**
+- [ ] Terminer les box **Solaris** ─> **0%**
+- [ ] Terminer les box **Android** ─> **0%**
+- [ ] Terminer les box **Other** ─> **0%**
+</details>
+
+> Hack The Box est une formation cybersécurité complète.
+#
 *Mise à jour le 26/01/24*
 ###### Ci-dessous, mes dépôts git publiques:
