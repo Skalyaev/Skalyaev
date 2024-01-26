@@ -1,4 +1,4 @@
-# :star: A road as a Cybersecurity Specialist :star:
+# :star: A road as a cybersecurity specialist :star:
 > Cette page présente mon expérience post-bac.
 ## [42](https://42.fr/) - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 - [x] Terminer le [tronc commun](https://github.com/Skalyaeve/42_common_core) ─> **(1 / 1)**
