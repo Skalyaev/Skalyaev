@@ -15,26 +15,26 @@
 - [ ] Terminer les **challenges** ─> **27%**
 </summary>
 
-- [ ] Terminer la branche [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
-- [ ] Terminer la branche [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/) ─> **21%**
-- [ ] Terminer la branche [App - Script](https://www.root-me.org/fr/Challenges/App-Script/) ─> **78%**
-- [ ] Terminer la branche [Cracking](https://www.root-me.org/fr/Challenges/Cracking/) ─> **30%**
-- [ ] Terminer la branche [Réseau](https://www.root-me.org/fr/Challenges/Reseau/) ─> **56%**
-- [ ] Terminer la branche [Web - Client](https://www.root-me.org/fr/Challenges/Web-Client/) ─> **22%**
-- [ ] Terminer la branche [Web - Serveur](https://www.root-me.org/fr/Challenges/Web-Serveur/) ─> **23%**
-- [ ] Terminer la branche [Cryptanalyse](https://www.root-me.org/fr/Challenges/Cryptanalyse/) ─> **25%**
-- [ ] Terminer la branche [Stéganographie](https://www.root-me.org/fr/Challenges/Steganographie/) ─> **26%**
-- [ ] Terminer la branche [Forensic](https://www.root-me.org/fr/Challenges/Forensic/) ─> **2%**
-- [ ] Terminer la branche [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/) ─> **2%**
+- [ ] [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
+- [ ] [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/) ─> **21%**
+- [ ] [App - Script](https://www.root-me.org/fr/Challenges/App-Script/) ─> **78%**
+- [ ] [Cracking](https://www.root-me.org/fr/Challenges/Cracking/) ─> **30%**
+- [ ] [Réseau](https://www.root-me.org/fr/Challenges/Reseau/) ─> **56%**
+- [ ] [Web - Client](https://www.root-me.org/fr/Challenges/Web-Client/) ─> **22%**
+- [ ] [Web - Serveur](https://www.root-me.org/fr/Challenges/Web-Serveur/) ─> **23%**
+- [ ] [Cryptanalyse](https://www.root-me.org/fr/Challenges/Cryptanalyse/) ─> **25%**
+- [ ] [Stéganographie](https://www.root-me.org/fr/Challenges/Steganographie/) ─> **26%**
+- [ ] [Forensic](https://www.root-me.org/fr/Challenges/Forensic/) ─> **2%**
+- [ ] [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/) ─> **2%**
 </details>
 
 > [Root me](https://www.root-me.org) est un challenge cybersécurité de taille.
 
 ## `new` [Hack The Box](https://app.hackthebox.com/profile/1772537)
 ### [Academy](https://academy.hackthebox.com/catalogue)
-- [ ] Terminer les modules "**General**"  ─> **87%**
-- [ ] Terminer les modules "**Red Team**"  ─> **23%**
-- [ ] Terminer les modules "**Blue Team**"  ─> **11%**
+- [ ] Terminer les modules **General**  ─> **87%**
+- [ ] Terminer les modules **Red Team**  ─> **23%**
+- [ ] Terminer les modules **Blue Team**  ─> **11%**
 <details><summary>Détails</summary>
 
 - [ ] [Penetration Tester job role path](https://academy.hackthebox.com/path/preview/penetration-tester) ─> **43%**
@@ -48,17 +48,17 @@
 - [ ] Terminer les **challenges** ─> **0%**
 </summary>
 
-- [ ] Terminer les challenges "**Reversing**" ─> **2%**
-- [ ] Terminer les challenges "**Web**" ─> **0%**
-- [ ] Terminer les challenges "**Mobile**" ─> **0%**
-- [ ] Terminer les challenges "**Pwn**" ─> **1%**
-- [ ] Terminer les challenges "**GamePwn**" ─> **0%**
-- [ ] Terminer les challenges "**Misc**" ─> **0%**
-- [ ] Terminer les challenges "**Crypto**" ─> **1%**
-- [ ] Terminer les challenges "**Forensics**" ─> **0%**
-- [ ] Terminer les challenges "**OSINT**" ─> **0%**
-- [ ] Terminer les challenges "**Hardware**" ─> **0%**
-- [ ] Terminer les challenges "**Blockchain**" ─> **0%**
+- [ ] **Reversing** ─> **2%**
+- [ ] **Web** ─> **0%**
+- [ ] **Mobile** ─> **0%**
+- [ ] **Pwn** ─> **1%**
+- [ ] **GamePwn** ─> **0%**
+- [ ] **Misc** ─> **0%**
+- [ ] **Crypto** ─> **1%**
+- [ ] **Forensics** ─> **0%**
+- [ ] **OSINT** ─> **0%**
+- [ ] **Hardware** ─> **0%**
+- [ ] **Blockchain** ─> **0%**
 </details>
 
 <details><summary>Détails
@@ -66,13 +66,13 @@
 - [ ] Terminer les **box** ─> **0%**
 </summary>
 
-- [ ] Terminer les box "**Linux**" ─> **0%**
-- [ ] Terminer les box "**Windows**" ─> **1%**
-- [ ] Terminer les box "**Android**" ─> **0%**
-- [ ] Terminer les box "**OpenBSD**" ─> **0%**
-- [ ] Terminer les box "**FreeBSD**" ─> **0%**
-- [ ] Terminer les box "**Solaris**" ─> **0%**
-- [ ] Terminer les box "**Other**" ─> **0%**
+- [ ] **Linux** ─> **0%**
+- [ ] **Windows** ─> **1%**
+- [ ] **Android** ─> **0%**
+- [ ] **OpenBSD** ─> **0%**
+- [ ] **FreeBSD** ─> **0%**
+- [ ] **Solaris** ─> **0%**
+- [ ] **Other** ─> **0%**
 </details>
 
 > [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète.
