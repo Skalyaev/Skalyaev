@@ -37,9 +37,15 @@
 - [ ] Terminer les modules **Blue Team**  ─> **11%**
 <details><summary>Détails</summary>
 
-- [ ] [Penetration Tester job role path](https://academy.hackthebox.com/path/preview/penetration-tester) ─> **43%**
-- [ ] [Bug Bounty Hunter job role path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) ─> **47%**
-- [ ] [SOC Analyst job role path](https://academy.hackthebox.com/path/preview/soc-analyst) ─> **27%**
+- [x] [InfoSec Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations) skill path
+- [x] [OS Fundamentals](https://academy.hackthebox.com/path/preview/operating-system-fundamentals) skill path
+- [x] [Binary Exploitation](https://academy.hackthebox.com/path/preview/intro-to-binary-exploitation) skill path
+- [x] [Local PrivEsc](https://academy.hackthebox.com/path/preview/local-privilege-escalation) skill path
+- [x] [Basic Toolset](https://academy.hackthebox.com/path/preview/basic-toolset) skill path
+- [x] [SOC Analyst Prerequisites](https://academy.hackthebox.com/path/preview/soc-analyst-prerequisites) skill path
+- [ ] [Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester) job role path ─> **43%**
+- [ ] [Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) job role path ─> **47%**
+- [ ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path ─> **27%**
 </details>
 
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
