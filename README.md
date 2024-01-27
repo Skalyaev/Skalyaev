@@ -9,7 +9,7 @@
 > [42](https://42.fr/) forme d'excellents programmeurs.
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
-- [ ] Passer **top 100** ─> **# 3368**
+- [ ] Passer **top 1000** ─> **# 3368**
 <details><summary>Détails
   
 - [ ] Terminer les **challenges** ─> **27%**
