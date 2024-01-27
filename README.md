@@ -37,9 +37,9 @@
 - [ ] Terminer les modules "**Blue Team**"  ─> **11%**
 <details><summary>Détails</summary>
 
-- [ ] [Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester) job role path  ─> **43%**
-- [ ] [Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) job role path  ─> **47%**
-- [ ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path  ─> **27%**
+- [ ] [Penetration Tester job role path](https://academy.hackthebox.com/path/preview/penetration-tester) ─> **43%**
+- [ ] [Bug Bounty Hunter job role path](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) ─> **47%**
+- [ ] [SOC Analyst job role path](https://academy.hackthebox.com/path/preview/soc-analyst) ─> **27%**
 </details>
 
 ### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
