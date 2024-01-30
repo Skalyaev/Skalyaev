@@ -84,4 +84,3 @@
 > [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète.
 #
 *Mis à jour le 26/01/24*
-###### Ci-dessous, mes dépôts git publiques:
