@@ -29,7 +29,7 @@
 
 <details><summary>Détails
   
-- [x] Terminer 3 projets de la **branche sécurité** pour au moins 50.000 exp ─> *(4 / 3) - (87.937 / 50.000)* `validation en cours`*
+- [x] Terminer 3 projets de la **branche sécurité** pour au moins 50.000 exp ─> *(4 / 3) - (87.937 / 50.000) `validation en cours`*
 </summary>
 
 | Nom | Description | Domaine | Tech |
