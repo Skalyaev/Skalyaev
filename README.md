@@ -59,7 +59,13 @@
 
 </details>
 
+<details><summary>Détails
+  
 - [ ] Faire **2 stages** ─> *(0 / 2)*
+</summary>
+En recherche de stage :) --> anguinau@student.42.fr
+</details>
+
 > [42](https://42.fr/) forme d'excellents programmeurs.
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
