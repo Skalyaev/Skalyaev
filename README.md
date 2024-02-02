@@ -63,7 +63,7 @@
   
 - [ ] Faire **2 stages** ─> *(0 / 2)*
 </summary>
-En recherche de stage :) --> anguinau@student.42.fr
+En recherche de stage :)
 </details>
 
 > [42](https://42.fr/) forme d'excellents programmeurs.
