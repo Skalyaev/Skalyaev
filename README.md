@@ -17,7 +17,7 @@
 | [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/network.png) |
 | [Minishell](https://github.com/Skalyaeve/minishell) | Simple shell UNIX | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) ![](https://github.com/Skalyaeve/images/blob/main/linux.png) |
 | [Philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
-| [Pipex](https://github.com/Skalyaeve/pipex) | A simple pipe behavior | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
+| [Pipex](https://github.com/Skalyaeve/pipex) | Simple pipe behavior | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
 | [Push_swap](https://github.com/Skalyaeve/push_swap) | Défi algorithmique | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
 | [So Long](https://github.com/Skalyaeve/so_long) | Jeu en 2D | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
 | [Born2beRoot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/linux.png) |
