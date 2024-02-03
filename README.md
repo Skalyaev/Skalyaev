@@ -29,7 +29,7 @@
 
 <details><summary>Détails
   
-- [x] Terminer 3 projets de la **branche sécurité** pour au moins 50.000 exp ─> *(4 / 3) - (87.937 / 50.000) `validation en cours`*
+- [x] Terminer 3 projets de la **branche sécurité** pour au moins 50.000 exp ─> *(4 / 3) -- (87.937 / 50.000) `validation en cours`*
 </summary>
 
 | Nom | Description | Domaine | Tech |
@@ -43,7 +43,7 @@
 
 <details><summary>Détails
 
-- [ ] Terminer 2 projets de la **branche unix/kernel** pour au moins 30.000 exp ─> *(1 / 2) - (1.207 / 30.000) `validation en cours`*
+- [ ] Terminer 2 projets de la **branche unix/kernel** pour au moins 30.000 exp ─> *(1 / 2) -- (1.207 / 30.000) `validation en cours`*
 </summary>
 
 | Nom | Description | Domaine | Tech |
@@ -54,7 +54,7 @@
 
 <details><summary>Détails
   
-- [ ] Terminer 3 projets de la **branche admin sys** pour au moins 50.000 exp ─> *(0 / 3) - (0 / 50.000)*
+- [ ] Terminer 3 projets de la **branche admin sys** pour au moins 50.000 exp ─> *(0 / 3) -- (0 / 50.000)*
 </summary>
 
 </details>
