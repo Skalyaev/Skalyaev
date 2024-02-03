@@ -8,7 +8,7 @@
 
 | Nom | Description | Domaine | Tech |
 |-|-|-|-|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/react.png) ![](https://github.com/Skalyaeve/images/blob/main/javascript.png) ![](https://github.com/Skalyaeve/images/blob/main/css.png) ![](https://github.com/Skalyaeve/images/blob/main/html.png) ![](https://github.com/Skalyaeve/images/blob/main/postgresql.png) |
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/react.png) ![](https://github.com/Skalyaeve/images/blob/main/typescript.png) ![](https://github.com/Skalyaeve/images/blob/main/javascript.png) ![](https://github.com/Skalyaeve/images/blob/main/css.png) ![](https://github.com/Skalyaeve/images/blob/main/html.png) ![](https://github.com/Skalyaeve/images/blob/main/postgresql.png) |
 | [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/cpp.png) ![](https://github.com/Skalyaeve/images/blob/main/web.png) |
 | [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/docker.png) ![](https://github.com/Skalyaeve/images/blob/main/nginx.png) ![](https://github.com/Skalyaeve/images/blob/main/php.png) ![](https://github.com/Skalyaeve/images/blob/main/mariadb.png) ![](https://github.com/Skalyaeve/images/blob/main/wordpress.png) |
 | [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/cpp.png) |
