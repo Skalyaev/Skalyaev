@@ -8,13 +8,13 @@
 
 | Nom | Description | Domaine | Tech |
 |-|-|-|-|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/react.png) ![](https://github.com/Skalyaeve/images/blob/main/javascript.png) ![](https://github.com/Skalyaeve/images/blob/main/css.png) ![](https://github.com/Skalyaeve/images/blob/main/html.png) ![](https://github.com/Skalyaeve/images/blob/main/postgresql.png) |
-| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/cpp.png) ![](https://github.com/Skalyaeve/images/blob/main/web.png) |
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation web | ![](https://github.com/Skalyaeve/images/blob/main/react.png) ![](https://github.com/Skalyaeve/images/blob/main/javascript.png) ![](https://github.com/Skalyaeve/images/blob/main/css.png) ![](https://github.com/Skalyaeve/images/blob/main/html.png) ![](https://github.com/Skalyaeve/images/blob/main/postgresql.png) |
+| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation / Web | ![](https://github.com/Skalyaeve/images/blob/main/cpp.png) ![](https://github.com/Skalyaeve/images/blob/main/web.png) |
 | [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/docker.png) ![](https://github.com/Skalyaeve/images/blob/main/nginx.png) ![](https://github.com/Skalyaeve/images/blob/main/php.png) ![](https://github.com/Skalyaeve/images/blob/main/mariadb.png) ![](https://github.com/Skalyaeve/images/blob/main/wordpress.png) |
 | [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/cpp.png) |
 | [Modules C++](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/cpp.png) |
 | [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
-| [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/network.png) |
+| [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Network | ![](https://github.com/Skalyaeve/images/blob/main/network.png) |
 | [Minishell](https://github.com/Skalyaeve/minishell) | Simple shell UNIX | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) ![](https://github.com/Skalyaeve/images/blob/main/linux.png) |
 | [Philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
 | [Pipex](https://github.com/Skalyaeve/pipex) | Simple pipe behavior | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/c.png) |
