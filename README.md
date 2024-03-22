@@ -9,12 +9,12 @@
 
 | Nom | Description | Domaine |
 |-|-|-|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation web |
-| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation / Web |
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en React | Programmation web |
+| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP/1.1 RFC complient | Programmation / Web |
 | [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker | Admin sys |
-| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation |
+| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Quelques conteneurs C++ | Programmation |
 | [Modules C++](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation |
-| [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster | Programmation |
+| [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster (DOOM like) | Programmation |
 | [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Network |
 | [Minishell](https://github.com/Skalyaeve/minishell) | Simple shell UNIX | Programmation |
 | [Philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation |
