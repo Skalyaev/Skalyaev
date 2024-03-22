@@ -60,7 +60,7 @@
   
 - [ ] Faire **2 stages** ─> *(0 / 2)*
 </summary>
-En recherche de stage en:
+Recherche de stage en:
 
 - Pentesting
 - Bug bounty hunt
