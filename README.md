@@ -60,7 +60,11 @@
   
 - [ ] Faire **2 stages** ─> *(0 / 2)*
 </summary>
-En recherche de stage :)
+En recherche de stage en:
+
+- Pentesting
+- Bug bounty hunt
+- Security engineering
 </details>
 
 > [42](https://42.fr/) forme d'excellents programmeurs.
