@@ -23,7 +23,7 @@
 | [So Long](https://github.com/Skalyaeve/so_long) | Jeu en 2D | Programmation |
 | [Born2beRoot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys |
 | [ft_printf](https://github.com/Skalyaeve/ft_printf) | Recoder printf | Programmation |
-| [Get Next Line](https://github.com/Skalyaeve/get_next_line) | Parser | Programmation |
+| [Get Next Line](https://github.com/Skalyaeve/get_next_line) | Simple parser | Programmation |
 | [Libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc | Programmation |
 </details>
 
