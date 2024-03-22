@@ -11,7 +11,7 @@
 |-|-|-|
 | [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation web |
 | [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation / Web |
-| [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress | Admin sys |
+| [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker | Admin sys |
 | [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation |
 | [Modules C++](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation |
 | [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster | Programmation |
