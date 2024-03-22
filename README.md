@@ -2,28 +2,28 @@
 > Cette page présente mon expérience post-bac.
 ## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 <details><summary>Détails
-  
+
 - [x] Terminer le **tronc commun** ─> *(16 / 16)*
 </summary>
 
-| Nom | Description | Domaine | Tech |
-|-|-|-|-|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation web | ![](https://github.com/Skalyaeve/images/blob/main/logo/react.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/javascript.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/css.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/html.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/postgresql.png) |
-| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation / Web | ![](https://github.com/Skalyaeve/images/blob/main/logo/cpp.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/web.png) |
-| [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/logo/docker.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/nginx.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/php.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/mariadb.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/wordpress.png) |
-| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/cpp.png) |
-| [Modules C++](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/cpp.png) |
-| [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Network | ![](https://github.com/Skalyaeve/images/blob/main/logo/network.png) |
-| [Minishell](https://github.com/Skalyaeve/minishell) | Simple shell UNIX | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/linux.png) |
-| [Philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [Pipex](https://github.com/Skalyaeve/pipex) | Simple pipe behavior | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [Push_swap](https://github.com/Skalyaeve/push_swap) | Défi algorithmique | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [So Long](https://github.com/Skalyaeve/so_long) | Jeu en 2D | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [Born2beRoot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys | ![](https://github.com/Skalyaeve/images/blob/main/logo/linux.png) |
-| [ft_printf](https://github.com/Skalyaeve/ft_printf) | Recoder printf | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [Get Next Line](https://github.com/Skalyaeve/get_next_line) | Parser | Programmation |  ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
-| [Libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) |
+| Nom | Description | Domaine |
+|-|-|-|
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web |
+| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation / Web |
+| [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress | Admin sys |
+| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation |
+| [Modules C++](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation |
+| [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster | Programmation |
+| [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Network |
+| [Minishell](https://github.com/Skalyaeve/minishell) | Simple shell UNIX | Programmation |
+| [Philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation |
+| [Pipex](https://github.com/Skalyaeve/pipex) | Simple pipe behavior | Programmation |
+| [Push_swap](https://github.com/Skalyaeve/push_swap) | Défi algorithmique | Programmation |
+| [So Long](https://github.com/Skalyaeve/so_long) | Jeu en 2D | Programmation |
+| [Born2beRoot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys |
+| [ft_printf](https://github.com/Skalyaeve/ft_printf) | Recoder printf | Programmation |
+| [Get Next Line](https://github.com/Skalyaeve/get_next_line) | Parser | Programmation |
+| [Libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc | Programmation |
 
 </details>
 
@@ -32,12 +32,12 @@
 - [x] Terminer 3 projets de la **branche sécurité** pour au moins 50.000 exp ─> *(4 / 3) -- (87.937 / 50.000)*
 </summary>
 
-| Nom | Description | Domaine | Tech |
-|-|-|-|-|
-| [Over Ride](https://github.com/Skalyaeve/over_ride) | Bug Bounty niv.2 | Reverse engineering | ![](https://github.com/Skalyaeve/images/blob/main/logo/asm.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) | 
-| [Rainfall](https://github.com/Skalyaeve/rainfall) | Bug Bounty niv.1 | Reverse engineering | ![](https://github.com/Skalyaeve/images/blob/main/logo/asm.png) | 
-| [Snow Crash](https://github.com/Skalyaeve/snow_crash) | Introduction à la cybersécurité à travers un CTF. | Divers | ![](https://github.com/Skalyaeve/images/blob/main/logo/linux.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/network.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/asm.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/perl.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/lua.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/php.png) | 
-| [Cybersecurity Piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité à travers divers projets. | Divers | ![](https://github.com/Skalyaeve/images/blob/main/logo/web.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/network.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/tor.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/python.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/asm.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/c.png) ![](https://github.com/Skalyaeve/images/blob/main/logo/cpp.png) | 
+| Nom | Description | Domaine |
+|-|-|-|
+| [Over Ride](https://github.com/Skalyaeve/over_ride) | Bug Bounty niv.2 | Reverse engineering |
+| [Rainfall](https://github.com/Skalyaeve/rainfall) | Bug Bounty niv.1 | Reverse engineering |
+| [Snow Crash](https://github.com/Skalyaeve/snow_crash) | Introduction à la cybersécurité à travers un CTF. | Divers |
+| [Cybersecurity Piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité à travers divers projets. | Divers |
 
 </details>
 
@@ -46,9 +46,9 @@
 - [ ] Terminer 2 projets de la **branche unix/kernel** pour au moins 30.000 exp ─> *(1 / 2) -- (1.207 / 30.000)*
 </summary>
 
-| Nom | Description | Domaine | Tech |
-|-|-|-|-|
-| [Libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation | ![](https://github.com/Skalyaeve/images/blob/main/logo/asm.png) |
+| Nom | Description | Domaine |
+|-|-|-|
+| [Libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation |
 
 </details>
 
