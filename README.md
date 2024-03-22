@@ -1,14 +1,15 @@
 # :star: A road as a cybersecurity specialist :star:
 > Cette page présente mon expérience post-bac.
+
 ## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 <details><summary>Détails
-
+  
 - [x] Terminer le **tronc commun** ─> *(16 / 16)*
 </summary>
 
 | Nom | Description | Domaine |
 |-|-|-|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web |
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web | Programmation web |
 | [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP | Programmation / Web |
 | [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress | Admin sys |
 | [ft_containers](https://github.com/Skalyaeve/ft_containers) | Conteneurs C++ | Programmation |
@@ -24,7 +25,6 @@
 | [ft_printf](https://github.com/Skalyaeve/ft_printf) | Recoder printf | Programmation |
 | [Get Next Line](https://github.com/Skalyaeve/get_next_line) | Parser | Programmation |
 | [Libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc | Programmation |
-
 </details>
 
 <details><summary>Détails
@@ -38,7 +38,6 @@
 | [Rainfall](https://github.com/Skalyaeve/rainfall) | Bug Bounty niv.1 | Reverse engineering |
 | [Snow Crash](https://github.com/Skalyaeve/snow_crash) | Introduction à la cybersécurité à travers un CTF. | Divers |
 | [Cybersecurity Piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité à travers divers projets. | Divers |
-
 </details>
 
 <details><summary>Détails
@@ -49,14 +48,12 @@
 | Nom | Description | Domaine |
 |-|-|-|
 | [Libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation |
-
 </details>
 
 <details><summary>Détails
   
 - [ ] Terminer 3 projets de la **branche admin sys** pour au moins 50.000 exp ─> *(0 / 3) -- (0 / 50.000)*
 </summary>
-
 </details>
 
 <details><summary>Détails
