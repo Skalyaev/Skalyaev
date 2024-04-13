@@ -9,7 +9,7 @@
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |-|-|-|
-| unleashthebox | Passer rank `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
+| unleashthebox | Passer `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
 | ft_malcolm | Automated ManInTheMiddle en C | Programmation |
 | boot2root | Linux privilege escalation | PrivEsc |
 | [override](https://github.com/Skalyaeve/over_ride) | CTF: Reverse - ELF 32/64 | Bug Bounty |
