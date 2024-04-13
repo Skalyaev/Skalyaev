@@ -1,102 +1,116 @@
-# :star: A road as a cybersecurity specialist :star:
-> Cette page présente mon expérience post-bac.
+# <p align="center">:star: A road as a cybersecurity specialist :star:</p>
+<p align="center">Cette page présente mon expérience post-bac</p>
 
-## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
-<details><summary>Détails
+## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5) - Expert en Architecture Informatique*
+#### ◯────── Branche Sécurité ──────◯
+- [x] [ 4 / 3 ] projets
+- [x] [ 88k / 50k ] expérience
+<details><summary>Projets séléctionés</summary>
   
-- [x] Terminer le **tronc commun** ─> *(16 / 16)*
-</summary>
+| Nom | Description | Domaine |
+|-|-|-|
+| unleashthebox | Passer rank `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
+| ft_malcolm | Automated ManInTheMiddle en C | Programmation |
+| boot2root | Linux privilege escalation | PrivEsc |
+| [override](https://github.com/Skalyaeve/over_ride) | CTF: Reverse - ELF 32/64 | Bug Bounty |
+| [rainfall](https://github.com/Skalyaeve/rainfall) | CTF: Reverse - ELF 32 | Bug Bounty |
+| [snow_crash](https://github.com/Skalyaeve/snow_crash) | CTF: Introduction à la cybersécurité | Divers |
+| [cybersecurity_piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité | Divers |
+</details>
+
+#### ◯─ Branche Admin Sys & Réseau ─◯
+- [ ] [ 0 / 3 ] projets
+- [ ] [ 0k / 50k ] expérience
+<details><summary>Projets séléctionés</summary>
 
 | Nom | Description | Domaine |
 |-|-|-|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en React | Programmation web |
-| [Webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP/1.1 RFC complient | Programmation / Web |
-| [Inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker | Admin sys |
-| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Quelques conteneurs C++ | Programmation |
-| [Modules C++](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation |
-| [cub3D](https://github.com/Skalyaeve/cub3d) | Raycaster (DOOM like) | Programmation |
-| [Net_Practice](https://github.com/Skalyaeve/net_practice) | Introduction au réseau | Network |
-| [Minishell](https://github.com/Skalyaeve/minishell) | Simple shell UNIX | Programmation |
-| [Philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation |
-| [Pipex](https://github.com/Skalyaeve/pipex) | Simple pipe behavior | Programmation |
-| [Push_swap](https://github.com/Skalyaeve/push_swap) | Défi algorithmique | Programmation |
-| [So Long](https://github.com/Skalyaeve/so_long) | Jeu en 2D | Programmation |
-| [Born2beRoot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys |
-| [ft_printf](https://github.com/Skalyaeve/ft_printf) | Recoder printf | Programmation |
-| [Get Next Line](https://github.com/Skalyaeve/get_next_line) | Simple parser | Programmation |
-| [Libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc | Programmation |
+| badass | Routage BGP EVPN (Internet) via Docker | Admin sys |
+| ft_nmap | Implémentation partielle de `nmap` en C | Programmation |
+| ft_traceroute | Implémentation partielle de `traceroute` en C | Programmation |
+| ft_ping | Implémentation partielle de `ping` en C | Programmation |
 </details>
 
-<details><summary>Détails
-  
-- [x] Terminer 3 projets de la **branche sécurité** pour au moins 50.000 exp ─> *(4 / 3) -- (87.937 / 50.000)*
-</summary>
+#### ◯─── Branche Unix / Kernel ────◯
+- [ ] [ 1 / 2 ] projets
+- [ ] [ 1k / 30k ] expérience
+<details><summary>Projets séléctionés</summary>
 
 | Nom | Description | Domaine |
 |-|-|-|
-| [Over Ride](https://github.com/Skalyaeve/over_ride) | Bug Bounty niv.2 | Reverse engineering |
-| [Rainfall](https://github.com/Skalyaeve/rainfall) | Bug Bounty niv.1 | Reverse engineering |
-| [Snow Crash](https://github.com/Skalyaeve/snow_crash) | Introduction à la cybersécurité à travers un CTF. | Divers |
-| [Cybersecurity Piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité à travers divers projets. | Divers |
+| ft_strace | Implémentation partielle de `strace` en C | Programmation |
+| lem-ipc | Exercice de communication inter-processus | Programmation |
+| malloc | Implémentation de `malloc`, `realloc` et `free` C | Programmation |
+| [libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation |
 </details>
 
-<details><summary>Détails
-
-- [ ] Terminer 2 projets de la **branche unix/kernel** pour au moins 30.000 exp ─> *(1 / 2) -- (1.207 / 30.000)*
-</summary>
+#### ◯──────── Tronc Commun ────────◯
+- [x] [ 16 / 15 ] projets
+<details><summary>Projets séléctionés</summary>
 
 | Nom | Description | Domaine |
 |-|-|-|
-| [Libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation |
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en Nest et React via Docker | Programmation |
+| [webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP/1.1 RFC complient en C++ | Programmation |
+| [inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker, Nginx et MariaDB | Admin sys |
+| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Implémentation de quelques conteneurs C++ | Programmation |
+| [cpp_modules](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation |
+| [cub3d](https://github.com/Skalyaeve/cub3d) | Raycaster (DOOM like) en C | Programmation |
+| [net_practice](https://github.com/Skalyaeve/net_practice) | Introduction à l'administration réseau | Réseau |
+| [minishell](https://github.com/Skalyaeve/minishell) | Interpréteur de commandes Unix en C | Programmation |
+| [philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation |
+| [pipex](https://github.com/Skalyaeve/pipex) | Exercice de redirection de flux Unix en C | Programmation |
+| [push_swap](https://github.com/Skalyaeve/push_swap) | Exercice d'algorithmie en C | Programmation |
+| [so_long](https://github.com/Skalyaeve/so_long) | Introduction au développement graphique en C | Programmation |
+| [born2beroot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys |
+| [ft_printf](https://github.com/Skalyaeve/ft_printf) | Implémentation partielle de `printf` en C | Programmation |
+| [get_next_line](https://github.com/Skalyaeve/get_next_line) | Exercice de parsing en C | Programmation |
+| [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Programmation |
 </details>
 
-<details><summary>Détails
-  
-- [ ] Terminer 3 projets de la **branche admin sys** pour au moins 50.000 exp ─> *(0 / 3) -- (0 / 50.000)*
-</summary>
-</details>
+#### Conditions supplémentaires
+- [ ] [ 13 / 21 ] niveau
+- [ ] [ 0 / 2] stages
 
-<details><summary>Détails
-  
-- [ ] Faire **2 stages** ─> *(0 / 2)*
-</summary>
-Recherche de stage en:
+<details><summary>Recherche un stage en ...</summary>
 
-- Pentesting
+- Pentest
 - Bug bounty hunt
-- Security engineering
+- Security dev
 </details>
 
-> [42](https://42.fr/) forme d'excellents programmeurs.
+> [42](https://42.fr/) forme d'excellents programmeurs
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
-- [ ] Passer **top 1000** ─> **# 3368**
+- [ ] [ #3.454 / #1.000 ] Classement
 <details><summary>Détails
   
-- [ ] Terminer les **challenges** ─> **27%**
+- [ ] [ 26% ] Challenges
 </summary>
 
-- [ ] [Programmation](https://www.root-me.org/fr/Challenges/Programmation/) ─> **86%**
-- [ ] [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/) ─> **21%**
-- [ ] [App - Script](https://www.root-me.org/fr/Challenges/App-Script/) ─> **78%**
-- [ ] [Cracking](https://www.root-me.org/fr/Challenges/Cracking/) ─> **30%**
-- [ ] [Réseau](https://www.root-me.org/fr/Challenges/Reseau/) ─> **56%**
-- [ ] [Web - Client](https://www.root-me.org/fr/Challenges/Web-Client/) ─> **22%**
-- [ ] [Web - Serveur](https://www.root-me.org/fr/Challenges/Web-Serveur/) ─> **23%**
-- [ ] [Cryptanalyse](https://www.root-me.org/fr/Challenges/Cryptanalyse/) ─> **25%**
-- [ ] [Stéganographie](https://www.root-me.org/fr/Challenges/Steganographie/) ─> **26%**
-- [ ] [Forensic](https://www.root-me.org/fr/Challenges/Forensic/) ─> **2%**
-- [ ] [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/) ─> **2%**
+- [ ] [ 72% ] [Programmation](https://www.root-me.org/fr/Challenges/Programmation/)
+- [ ] [ 21% ] [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/)
+- [ ] [ 78% ] [App - Script](https://www.root-me.org/fr/Challenges/App-Script/)
+- [ ] [ 30% ] [Cracking](https://www.root-me.org/fr/Challenges/Cracking/)
+- [ ] [ 55% ] [Réseau](https://www.root-me.org/fr/Challenges/Reseau/)
+- [ ] [ 21% ] [Web - Client](https://www.root-me.org/fr/Challenges/Web-Client/)
+- [ ] [ 22% ] [Web - Serveur](https://www.root-me.org/fr/Challenges/Web-Serveur/)
+- [ ] [ 23% ] [Cryptanalyse](https://www.root-me.org/fr/Challenges/Cryptanalyse/)
+- [ ] [ 26% ] [Stéganographie](https://www.root-me.org/fr/Challenges/Steganographie/)
+- [ ] [ 02% ] [Forensic](https://www.root-me.org/fr/Challenges/Forensic/)
+- [ ] [ 01% ] [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/)
 </details>
 
-> [Root me](https://www.root-me.org) est un challenge cybersécurité de taille.
+> [Root me](https://www.root-me.org) est un challenge cybersécurité de taille
 
 ## `new` [Hack The Box](https://app.hackthebox.com/profile/1772537)
-### [Academy](https://academy.hackthebox.com/catalogue)
-- [ ] Terminer les modules **General**  ─> **87%**
-- [ ] Terminer les modules **Red Team**  ─> **23%**
-- [ ] Terminer les modules **Blue Team**  ─> **11%**
-<details><summary>Détails</summary>
+#### ◯────────── [Academy](https://academy.hackthebox.com/catalogue) ───────────◯
+<details><summary>Détails
+
+- [ ] [ 87% ] Modules **General**
+- [ ] [ 23% ] Modules **Red Team**
+- [ ] [ 11% ] Modules **Blue Team**
+</summary>
 
 - [x] [InfoSec Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations) skill path
 - [x] [OS Fundamentals](https://academy.hackthebox.com/path/preview/operating-system-fundamentals) skill path
@@ -104,44 +118,48 @@ Recherche de stage en:
 - [x] [Binary Exploitation](https://academy.hackthebox.com/path/preview/intro-to-binary-exploitation) skill path
 - [x] [SOC Analyst Prerequisites](https://academy.hackthebox.com/path/preview/soc-analyst-prerequisites) skill path
 - [x] [Basic Toolset](https://academy.hackthebox.com/path/preview/basic-toolset) skill path
-- [ ] [Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester) job role path ─> **43%**
-- [ ] [Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) job role path ─> **47%**
-- [ ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path ─> **27%**
+- [ ] [ 43% ] [CREST CPSA/CRT Preparation](https://academy.hackthebox.com/path/preview/crest-cpsacrt-preparation) skill path
+- [ ] [ 46% ] [CREST CCT APP Preparation](https://academy.hackthebox.com/path/preview/crest-cct-app-preparation) skill path
+- [ ] [ 39% ] [CREST CCT INF Preparation](https://academy.hackthebox.com/path/preview/crest-cct-inf-preparation) skill path
+- [ ] [ 43% ] [Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester) job role path
+- [ ] [ 47% ] [Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) job role path
+- [ ] [ 27% ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path
 </details>
 
-### [Labs](https://www.hackthebox.com/hacker/hacking-labs)
+#### ◯──────────── [Labs](https://www.hackthebox.com/hacker/hacking-labs) ────────────◯
 <details><summary>Détails
 
-- [ ] Terminer les **challenges** ─> **0%**
+- [ ] [ 00% ] Challenges
 </summary>
 
-- [ ] **Reversing** ─> **2%**
-- [ ] **Web** ─> **0%**
-- [ ] **Mobile** ─> **0%**
-- [ ] **Pwn** ─> **1%**
-- [ ] **GamePwn** ─> **0%**
-- [ ] **Misc** ─> **0%**
-- [ ] **Crypto** ─> **1%**
-- [ ] **Forensics** ─> **0%**
-- [ ] **OSINT** ─> **0%**
-- [ ] **Hardware** ─> **0%**
-- [ ] **Blockchain** ─> **0%**
+- [ ] [ 02% ] Reversing
+- [ ] [ 00% ] Web
+- [ ] [ 00% ] Mobile
+- [ ] [ 01% ] Pwn
+- [ ] [ 00% ] GamePwn
+- [ ] [ 00% ] Misc
+- [ ] [ 01% ] Crypto
+- [ ] [ 00% ] Forensics
+- [ ] [ 00% ] OSINT
+- [ ] [ 00% ] Hardware
+- [ ] [ 00% ] Blockchain
 </details>
 
 <details><summary>Détails
   
-- [ ] Terminer les **box** ─> **0%**
+- [ ] [ 00% ] Box
 </summary>
 
-- [ ] **Linux** ─> **0%**
-- [ ] **Windows** ─> **1%**
-- [ ] **Android** ─> **0%**
-- [ ] **OpenBSD** ─> **0%**
-- [ ] **FreeBSD** ─> **0%**
-- [ ] **Solaris** ─> **0%**
-- [ ] **Other** ─> **0%**
+- [ ] [ 00% ] Linux
+- [ ] [ 01% ] Windows
+- [ ] [ 00% ] Android
+- [ ] [ 00% ] OpenBSD
+- [ ] [ 00% ] FreeBSD
+- [ ] [ 00% ] Solaris
+- [ ] [ 00% ] Other
 </details>
 
-> [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète.
+> [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète
+
 #
-*Mis à jour le 26/01/24*
+*Mis à jour le 13/04/24*
