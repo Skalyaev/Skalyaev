@@ -64,7 +64,7 @@
 | [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Programmation |
 </details>
 
-#### Conditions supplémentaires
+#### ◯─ Conditions supplémentaires ─◯
 - [ ] [ 13 / 21 ] niveau
 - [ ] [ 0 / 2] stages
 
