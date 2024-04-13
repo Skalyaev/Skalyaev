@@ -36,7 +36,7 @@
 |:-|:-:|-:|
 | ft_strace | Implémentation partielle de `strace` en C | Programmation |
 | lem-ipc | Exercice de communication inter-processus | Programmation |
-| malloc | Implémentation de `malloc`, `realloc` et `free` C | Programmation |
+| malloc | Implémentation de `malloc`, `realloc` et `free` en C | Programmation |
 | [libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation |
 </details>
 
