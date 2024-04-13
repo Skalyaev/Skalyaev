@@ -8,7 +8,7 @@
 - [x] [ 88k / 50k ] expérience
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
-|-|-|-|
+|:-|:-:|-:|
 | unleashthebox | Passer `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
 | ft_malcolm | Automated ManInTheMiddle en C | Programmation |
 | boot2root | Linux privilege escalation | PrivEsc |
@@ -22,7 +22,7 @@
 - [ ] [ 0k / 50k ] expérience
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
-|-|-|-|
+|:-|:-:|-:|
 | badass | Routage BGP EVPN (Internet) via Docker | Admin sys |
 | ft_nmap | Implémentation partielle de `nmap` en C | Programmation |
 | ft_traceroute | Implémentation partielle de `traceroute` en C | Programmation |
@@ -33,7 +33,7 @@
 - [ ] [ 1k / 30k ] expérience
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
-|-|-|-|
+|:-|:-:|-:|
 | ft_strace | Implémentation partielle de `strace` en C | Programmation |
 | lem-ipc | Exercice de communication inter-processus | Programmation |
 | malloc | Implémentation de `malloc`, `realloc` et `free` C | Programmation |
@@ -45,7 +45,7 @@
 <details><summary>Projets séléctionés</summary>
 
 | Nom | Description | Domaine |
-|-|-|-|
+|:-|:-:|-:|
 | [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en Nest et React via Docker | Programmation |
 | [webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP/1.1 RFC complient en C++ | Programmation |
 | [inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker, Nginx et MariaDB | Admin sys |
