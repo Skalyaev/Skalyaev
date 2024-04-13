@@ -1,7 +1,7 @@
 # :star: A road as a cybersecurity specialist :star:
 > Cette page présente mon expérience post-bac
 
-## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5) - Expert en Architecture Informatique*
+## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 #### ◯────── Branche Sécurité ──────◯
 - [x] [ 4 / 3 ] projets
 - [x] [ 88k / 50k ] expérience
