@@ -2,11 +2,11 @@
 > <p align="center">Cette page présente mon expérience post-bac</p>
 
 ## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
+
 #### ◯────── Branche Sécurité ──────◯
 - [x] [ 4 / 3 ] projets
 - [x] [ 88k / 50k ] expérience
-<details><summary>Projets séléctionés</summary>
-  
+##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |-|-|-|
 | unleashthebox | Passer rank `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
@@ -16,26 +16,22 @@
 | [rainfall](https://github.com/Skalyaeve/rainfall) | CTF: Reverse - ELF 32 | Bug Bounty |
 | [snow_crash](https://github.com/Skalyaeve/snow_crash) | CTF: Introduction à la cybersécurité | Divers |
 | [cybersecurity_piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité | Divers |
-</details>
 
 #### ◯─ Branche Admin Sys & Réseau ─◯
 - [ ] [ 0 / 3 ] projets
 - [ ] [ 0k / 50k ] expérience
-<details><summary>Projets séléctionés</summary>
-
+##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |-|-|-|
 | badass | Routage BGP EVPN (Internet) via Docker | Admin sys |
 | ft_nmap | Implémentation partielle de `nmap` en C | Programmation |
 | ft_traceroute | Implémentation partielle de `traceroute` en C | Programmation |
 | ft_ping | Implémentation partielle de `ping` en C | Programmation |
-</details>
 
 #### ◯─── Branche Unix / Kernel ────◯
 - [ ] [ 1 / 2 ] projets
 - [ ] [ 1k / 30k ] expérience
-<details><summary>Projets séléctionés</summary>
-
+##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |-|-|-|
 | ft_strace | Implémentation partielle de `strace` en C | Programmation |
