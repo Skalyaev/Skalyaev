@@ -158,7 +158,7 @@
 > [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète
 
 #
-> Dernière mise à jour: 15/04*2024
+> Dernière mise à jour: 15/04/2024
 
 |||
 |-|-|
