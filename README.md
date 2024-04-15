@@ -10,7 +10,7 @@
 | Nom | Description | Domaine |
 |:-|:-:|-:|
 | unleashthebox | Passer `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
-| ft_malcolm | Automated ManInTheMiddle en C | Programmation |
+| ft_malcolm | Automated ManInTheMiddle en C | Dev & Réseau |
 | boot2root | Linux privilege escalation | PrivEsc |
 | [override](https://github.com/Skalyaeve/over_ride) | CTF: Reverse - ELF 32/64 | Bug Bounty |
 | [rainfall](https://github.com/Skalyaeve/rainfall) | CTF: Reverse - ELF 32 | Bug Bounty |
@@ -23,10 +23,10 @@
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
-| badass | Routage BGP EVPN (Internet) via Docker | Admin sys |
-| ft_nmap | Implémentation partielle de `nmap` en C | Programmation |
-| ft_traceroute | Implémentation partielle de `traceroute` en C | Programmation |
-| ft_ping | Implémentation partielle de `ping` en C | Programmation |
+| badass | Routage BGP EVPN (Internet) via Docker | Admin sys & Réseau |
+| ft_nmap | Implémentation partielle de `nmap` en C | Dev & Réseau |
+| ft_traceroute | Implémentation partielle de `traceroute` en C | Dev & Réseau |
+| ft_ping | Implémentation partielle de `ping` en C | Dev & Réseau |
 
 #### ◯─── Branche Unix / Kernel ────◯
 - [ ] [ 1 / 2 ] projets
@@ -34,10 +34,10 @@
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
-| ft_strace | Implémentation partielle de `strace` en C | Programmation |
-| lem-ipc | Exercice de communication inter-processus | Programmation |
-| malloc | Implémentation de `malloc`, `realloc` et `free` en C | Programmation |
-| [libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Programmation |
+| ft_strace | Implémentation partielle de `strace` en C | Dev & Unix |
+| lem-ipc | Exercice de communication inter-processus | Dev & Unix |
+| malloc | Implémentation de `malloc`, `realloc` et `free` en C | Dev & Unix |
+| [libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Dev & Unix |
 </details>
 
 #### ◯──────── Tronc Commun ────────◯
@@ -46,22 +46,22 @@
 
 | Nom | Description | Domaine |
 |:-|:-:|-:|
-| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en Nest et React via Docker | Programmation |
-| [webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP/1.1 RFC complient en C++ | Programmation |
-| [inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker, Nginx et MariaDB | Admin sys |
-| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Implémentation de quelques conteneurs C++ | Programmation |
-| [cpp_modules](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Programmation |
-| [cub3d](https://github.com/Skalyaeve/cub3d) | Raycaster (DOOM like) en C | Programmation |
+| [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en Nest et React via Docker | Web Dev |
+| [webserv](https://github.com/Skalyaeve/webserv) | Serveur HTTP/1.1 RFC complient en C++ | Dev & Web |
+| [inception](https://github.com/Skalyaeve/inception) | Service Wordpress via Docker, Nginx et MariaDB | Admin sys & Web |
+| [ft_containers](https://github.com/Skalyaeve/ft_containers) | Implémentation de quelques conteneurs C++ | Dev |
+| [cpp_modules](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Dev |
+| [cub3d](https://github.com/Skalyaeve/cub3d) | Raycaster (DOOM like) en C | Graphic Dev |
 | [net_practice](https://github.com/Skalyaeve/net_practice) | Introduction à l'administration réseau | Réseau |
-| [minishell](https://github.com/Skalyaeve/minishell) | Interpréteur de commandes Unix en C | Programmation |
-| [philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Programmation |
-| [pipex](https://github.com/Skalyaeve/pipex) | Exercice de redirection de flux Unix en C | Programmation |
-| [push_swap](https://github.com/Skalyaeve/push_swap) | Exercice d'algorithmie en C | Programmation |
-| [so_long](https://github.com/Skalyaeve/so_long) | Introduction au développement graphique en C | Programmation |
-| [born2beroot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys |
-| [ft_printf](https://github.com/Skalyaeve/ft_printf) | Implémentation partielle de `printf` en C | Programmation |
-| [get_next_line](https://github.com/Skalyaeve/get_next_line) | Exercice de parsing en C | Programmation |
-| [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Programmation |
+| [minishell](https://github.com/Skalyaeve/minishell) | Interpréteur de commandes Unix en C | Dev & Unix |
+| [philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Dev |
+| [pipex](https://github.com/Skalyaeve/pipex) | Exercice de redirection de flux Unix en C | Dev & Unix |
+| [push_swap](https://github.com/Skalyaeve/push_swap) | Exercice d'algorithmie en C | Dev |
+| [so_long](https://github.com/Skalyaeve/so_long) | Introduction au développement graphique en C | Graphic Dev |
+| [born2beroot](https://github.com/Skalyaeve/born2beroot) | Introduction à la virtualisation | Admin sys & Unix |
+| [ft_printf](https://github.com/Skalyaeve/ft_printf) | Implémentation partielle de `printf` en C | Dev |
+| [get_next_line](https://github.com/Skalyaeve/get_next_line) | Exercice de parsing en C | Dev |
+| [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Dev |
 </details>
 
 #### ◯─ Conditions supplémentaires ─◯
@@ -157,13 +157,10 @@
 
 > [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète
 
-#
-*Mis à jour le 13/04/24*
-
 |||
 |-|-|
 | ![](https://img.shields.io/badge/--41%25--%20600.989%20octets-%23f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=424242&label=c%2B%2B) | ![](https://img.shields.io/badge/--30%25--%20446.062%20octets-%23555555?style=for-the-badge&logo=c&logoColor=white&labelColor=424242&label=c) |
-| ![](https://img.shields.io/badge/--11%25--%20162.754%20octets-%233178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=424242&label=ts) | ![](https://img.shields.io/badge/--7%25--%20112.539%20octets-%2389e051?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242&label=sh) |
-| ![](https://img.shields.io/badge/--3%25--%2055.894%20octets-%233572a5?style=for-the-badge&logo=python&logoColor=white&labelColor=424242&label=py) | ![](https://img.shields.io/badge/--3%25--%2051.827%20octets-%23563d7c?style=for-the-badge&logo=css3&logoColor=white&labelColor=424242&label=css) |
-| ![](https://img.shields.io/badge/--0%25--%2014.425%20octets-%23e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=424242&label=html) | ![](https://img.shields.io/badge/--0%25--%2012.739%20octets-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242&label=js) |
-| | |#
+| ![](https://img.shields.io/badge/--7%25--%20112.539%20octets-%2389e051?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242&label=sh) | ![](https://img.shields.io/badge/--3%25--%2055.894%20octets-%233572a5?style=for-the-badge&logo=python&logoColor=white&labelColor=424242&label=py) |
+| ![](https://img.shields.io/badge/--11%25--%20162.754%20octets-%233178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=424242&label=ts) | ![](https://img.shields.io/badge/--0%25--%2012.739%20octets-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242&label=js) |
+| ![](https://img.shields.io/badge/--3%25--%2051.827%20octets-%23563d7c?style=for-the-badge&logo=css3&logoColor=white&labelColor=424242&label=css) | ![](https://img.shields.io/badge/--0%25--%2014.425%20octets-%23e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=424242&label=html) |
+| | |
