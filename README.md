@@ -160,11 +160,11 @@
 #
 *Mis à jour le 13/04/24*
 
-https://img.shields.io/badge/--41%25--%20600.989%20octets-%23f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=424242&label=c%2B%2B
-https://img.shields.io/badge/--30%25--%20446.062%20octets-%23555555?style=for-the-badge&logo=c&logoColor=white&labelColor=424242&label=c
-https://img.shields.io/badge/--11%25--%20162.754%20octets-%233178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=424242&label=ts
-https://img.shields.io/badge/--7%25--%20112.539%20octets-%233178c6?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242&label=sh
-https://img.shields.io/badge/--3%25--%2055.894%20octets-%23555555?style=for-the-badge&logo=python&logoColor=white&labelColor=424242&label=py
-https://img.shields.io/badge/--3%25--%2051.827%20octets-%23563d7c?style=for-the-badge&logo=css3&logoColor=white&labelColor=424242&label=css
-https://img.shields.io/badge/--0%25--%2014.425%20octets-%23e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=424242&label=html
-https://img.shields.io/badge/--0%25--%2012.739%20octets-%23e34c26?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242&label=js
+![](https://img.shields.io/badge/--41%25--%20600.989%20octets-%23f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=424242&label=c%2B%2B)
+![](https://img.shields.io/badge/--30%25--%20446.062%20octets-%23555555?style=for-the-badge&logo=c&logoColor=white&labelColor=424242&label=c)
+![](https://img.shields.io/badge/--11%25--%20162.754%20octets-%233178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=424242&label=ts)
+![](https://img.shields.io/badge/--7%25--%20112.539%20octets-%233178c6?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242&label=sh)
+![](https://img.shields.io/badge/--3%25--%2055.894%20octets-%23555555?style=for-the-badge&logo=python&logoColor=white&labelColor=424242&label=py)
+![](https://img.shields.io/badge/--3%25--%2051.827%20octets-%23563d7c?style=for-the-badge&logo=css3&logoColor=white&labelColor=424242&label=css)
+![](https://img.shields.io/badge/--0%25--%2014.425%20octets-%23e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=424242&label=html)
+![](https://img.shields.io/badge/--0%25--%2012.739%20octets-%23e34c26?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242&label=js)
