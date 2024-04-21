@@ -12,9 +12,9 @@
 | unleashthebox | Rush `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
 | ft_malcolm | Automated ManInTheMiddle en C | Dev & Réseau |
 | boot2root | Linux privilege escalation | PrivEsc |
-| [override](https://github.com/Skalyaeve/over_ride) | CTF: Reverse - ELF 32/64 | Bug Bounty |
+| [override](https://github.com/Skalyaeve/override) | CTF: Reverse - ELF 32/64 | Bug Bounty |
 | [rainfall](https://github.com/Skalyaeve/rainfall) | CTF: Reverse - ELF 32 | Bug Bounty |
-| [snow_crash](https://github.com/Skalyaeve/snow_crash) | CTF: Introduction à la cybersécurité | Divers |
+| [snow-crash](https://github.com/Skalyaeve/snow-crash) | CTF: Introduction à la cybersécurité | Divers |
 | [cybersecurity_piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité | Divers |
 
 #### ◯─ Branche Admin Sys & Réseau ─◯
