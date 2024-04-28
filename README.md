@@ -27,7 +27,7 @@
 | ft_traceroute | Implémentation partielle de `traceroute` en C | Dev & Réseau |
 | ft_ping | Implémentation partielle de `ping` en C | Dev & Réseau |
 
-#### ◯─── Branche Unix / Kernel ────◯
+#### ◯─── Branche Unix - Kernel ────◯
 - [ ] [ 1 / 2 ] projets
 - [ ] [ 1k / 30k ] expérience
 ##### Projets séléctionés ▷
