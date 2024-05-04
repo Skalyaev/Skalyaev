@@ -3,9 +3,11 @@
 
 ## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
 
-#### ◯────── Branche Sécurité ──────◯
-- [x] [ 4 / 3 ] projets
-- [x] [ 88k / 50k ] expérience
+### Branche Sécurité
+
+![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=009921&label=4/3)
+![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=00998f&label=88k/50k)
+
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
@@ -16,9 +18,11 @@
 | [snow-crash](https://github.com/Skalyaeve/snow-crash) | CTF: Introduction à la cybersécurité | Divers |
 | [cybersecurity_piscine](https://github.com/Skalyaeve/cybersecurity_piscine) | Introduction à la cybersécurité | Divers |
 
-#### ◯─ Branche Admin Sys & Réseau ─◯
-- [ ] [ 0 / 3 ] projets
-- [ ] [ 0k / 50k ] expérience
+### Branche Admin Sys & Réseau
+
+![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=990000&label=0/3)
+![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=990000&label=0k/50k)
+
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
@@ -27,9 +31,11 @@
 | ft_traceroute | Implémentation partielle de `traceroute` en C | Dev & Réseau |
 | ft_ping | Implémentation partielle de `ping` en C | Dev & Réseau |
 
-#### ◯─── Branche Unix - Kernel ────◯
-- [ ] [ 1 / 2 ] projets
-- [ ] [ 1k / 30k ] expérience
+### Branche Unix - Kernel
+
+![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=998000&label=1/2)
+![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=990800&label=1k/30k)
+
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
@@ -39,8 +45,10 @@
 | [libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Dev & Unix |
 </details>
 
-#### ◯──────── Tronc Commun ────────◯
-- [x] [ 16 / 15 ] projets
+### Tronc Commun
+
+![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=249900&label=16/15)
+
 <details><summary>Projets séléctionés</summary>
 
 | Nom | Description | Domaine |
@@ -63,25 +71,27 @@
 | [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Dev |
 </details>
 
-#### ◯─ Conditions supplémentaires ─◯
-- [ ] [ 13 / 21 ] niveau
-- [ ] [ 0 / 2] stages
+### Conditions supplémentaires
+
+![](https://img.shields.io/badge/Niveau-%23232323?style=for-the-badge&labelColor=949900&label=13/21)
+![](https://img.shields.io/badge/Stages-%23232323?style=for-the-badge&labelColor=990000&label=0/2)
 
 <details><summary>Recherche un stage en ...</summary>
 
 - Pentest
-- Bug bounty hunt
 - Security dev
+- Bug bounty hunt
 </details>
 
 > [42](https://42.fr/) forme d'excellents programmeurs
 
 ## [Root Me](https://www.root-me.org/Skalyaeve)
-- [ ] [ #3.454 / #1.000 ] Classement
-<details><summary>Détails
 
-- [ ] [ 26% ] Challenges
-</summary>
+[![](https://img.shields.io/badge/Classement-%23232323?style=for-the-badge&labelColor=424242&label=%233454)](https://www.root-me.org/Skalyaeve)
+[![](https://img.shields.io/badge/Challenges-%23232323?style=for-the-badge&labelColor=994200&label=26%25)](https://www.root-me.org/fr/Challenges/)
+[![](https://img.shields.io/badge/Contributions-%23232323?style=for-the-badge&labelColor=424242&label=4)](https://www.root-me.org/Skalyaeve)
+
+<details><summary>Détails</summary>
 
 - [ ] [ 72% ] [Programmation](https://www.root-me.org/fr/Challenges/Programmation/)
 - [ ] [ 21% ] [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/)
@@ -99,12 +109,14 @@
 > [Root me](https://www.root-me.org) est un challenge cybersécurité de taille
 
 ## `new` [Hack The Box](https://app.hackthebox.com/profile/1772537)
-#### ◯────────── [Academy](https://academy.hackthebox.com/catalogue) ───────────◯
-<details><summary>Détails
 
-- [ ] [ 87% ] Modules **General**
-- [ ] [ 23% ] Modules **Red Team**
-- [ ] [ 11% ] Modules **Blue Team**
+### [Académie](https://academy.hackthebox.com/catalogue)
+
+<details><summary>Modules
+
+![](https://img.shields.io/badge/Red%20Team-%23232323?style=for-the-badge&labelColor=993b00&label=23%)
+![](https://img.shields.io/badge/Blue%20Team-%23232323?style=for-the-badge&labelColor=991c00&label=11%)
+![](https://img.shields.io/badge/Général-%23232323?style=for-the-badge&labelColor=549900&label=87%)
 </summary>
 
 - [x] [InfoSec Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations) skill path
@@ -121,10 +133,11 @@
 - [ ] [ 27% ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path
 </details>
 
-#### ◯──────────── [Labs](https://www.hackthebox.com/hacker/hacking-labs) ────────────◯
+### [Lab](https://www.hackthebox.com/hacker/hacking-labs)
+
 <details><summary>Détails
 
-- [ ] [ 00% ] Challenges
+![](https://img.shields.io/badge/Challenges-%23232323?style=for-the-badge&labelColor=990000&label=0%)
 </summary>
 
 - [ ] [ 02% ] Reversing
@@ -142,7 +155,7 @@
 
 <details><summary>Détails
 
-- [ ] [ 00% ] Box
+![](https://img.shields.io/badge/Boxes-%23232323?style=for-the-badge&labelColor=990000&label=0%)
 </summary>
 
 - [ ] [ 00% ] Linux
@@ -160,7 +173,7 @@
 
 |||
 |-|-|
-| ![](https://img.shields.io/badge/--42%25--%20600.989%20octets-%23f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/--31%25--%20446.062%20octets-%23555555?style=for-the-badge&logo=c&logoColor=white&labelColor=424242) |
-| ![](https://img.shields.io/badge/--06%25--%20080.448%20octets-%2389e051?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/--04%25--%20055.894%20octets-%233572a5?style=for-the-badge&logo=python&logoColor=white&labelColor=424242) ||
-![](https://img.shields.io/badge/--12%25--%20162.754%20octets-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/--05%25--%20012.739%20octets-%23232323?style=for-the-badge&logoColor=white&labelColor=424242&label=*) |
+| ![](https://img.shields.io/badge/[42%25]%20600.989%20octets-%23f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/[31%25]%20446.062%20octets-%23555555?style=for-the-badge&logo=c&logoColor=white&labelColor=424242) |
+| ![](https://img.shields.io/badge/[6%25]%2080.448%20octets-%2389e051?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/[4%25]%2055.894%20octets-%233572a5?style=for-the-badge&logo=python&logoColor=white&labelColor=424242) ||
+![](https://img.shields.io/badge/[12%25]%20162.754%20octets-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/[5%25]%2012.739%20octets-%23232323?style=for-the-badge&logoColor=white&labelColor=424242&label=*) |
 | | |
