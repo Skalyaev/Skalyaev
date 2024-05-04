@@ -171,4 +171,4 @@
 
 #
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=skalyaeve&show_icons=true&theme=dark&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=skalyaeve&show_icons=true&theme=dark&locale=fr&layout=compact)
