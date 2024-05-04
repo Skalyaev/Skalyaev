@@ -171,9 +171,4 @@
 
 #
 
-|||
-|-|-|
-| ![](https://img.shields.io/badge/[42%25]%20600.989%20octets-%23f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/[31%25]%20446.062%20octets-%23555555?style=for-the-badge&logo=c&logoColor=white&labelColor=424242) |
-| ![](https://img.shields.io/badge/[6%25]%2080.448%20octets-%2389e051?style=for-the-badge&logo=powershell&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/[4%25]%2055.894%20octets-%233572a5?style=for-the-badge&logo=python&logoColor=white&labelColor=424242) ||
-![](https://img.shields.io/badge/[12%25]%20162.754%20octets-%23f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=424242) | ![](https://img.shields.io/badge/[5%25]%2012.739%20octets-%23232323?style=for-the-badge&logoColor=white&labelColor=424242&label=*) |
-| | |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skalyaeve&show_icons=true&theme=dark&locale=en&layout=compact" alt="skalyaeve" />
