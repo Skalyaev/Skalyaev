@@ -116,7 +116,7 @@
 
 ![](https://img.shields.io/badge/Red%20Team-%23232323?style=for-the-badge&labelColor=993b00&label=23%)
 ![](https://img.shields.io/badge/Blue%20Team-%23232323?style=for-the-badge&labelColor=991c00&label=11%)
-![](https://img.shields.io/badge/Général-%23232323?style=for-the-badge&labelColor=549900&label=87%)
+![](https://img.shields.io/badge/Général-%23232323?style=for-the-badge&labelColor=339900&label=100%)
 </summary>
 
 - [x] [InfoSec Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations) skill path
@@ -125,12 +125,12 @@
 - [x] [Binary Exploitation](https://academy.hackthebox.com/path/preview/intro-to-binary-exploitation) skill path
 - [x] [SOC Analyst Prerequisites](https://academy.hackthebox.com/path/preview/soc-analyst-prerequisites) skill path
 - [x] [Basic Toolset](https://academy.hackthebox.com/path/preview/basic-toolset) skill path
-- [ ] [ 43% ] [CREST CPSA/CRT Preparation](https://academy.hackthebox.com/path/preview/crest-cpsacrt-preparation) skill path
-- [ ] [ 46% ] [CREST CCT APP Preparation](https://academy.hackthebox.com/path/preview/crest-cct-app-preparation) skill path
-- [ ] [ 39% ] [CREST CCT INF Preparation](https://academy.hackthebox.com/path/preview/crest-cct-inf-preparation) skill path
+- [ ] [ 45% ] [CREST CPSA/CRT Preparation](https://academy.hackthebox.com/path/preview/crest-cpsacrt-preparation) skill path
+- [ ] [ 47% ] [CREST CCT APP Preparation](https://academy.hackthebox.com/path/preview/crest-cct-app-preparation) skill path
+- [ ] [ 40% ] [CREST CCT INF Preparation](https://academy.hackthebox.com/path/preview/crest-cct-inf-preparation) skill path
 - [ ] [ 43% ] [Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester) job role path
 - [ ] [ 47% ] [Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) job role path
-- [ ] [ 27% ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path
+- [ ] [ 29% ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path
 </details>
 
 ### [Lab](https://www.hackthebox.com/hacker/hacking-labs)
