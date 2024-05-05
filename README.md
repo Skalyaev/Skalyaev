@@ -112,12 +112,11 @@
 
 ### [Académie](https://academy.hackthebox.com/catalogue)
 
-<details><summary>Modules
-
 ![](https://img.shields.io/badge/Red%20Team-%23232323?style=for-the-badge&labelColor=993b00&label=23%)
 ![](https://img.shields.io/badge/Blue%20Team-%23232323?style=for-the-badge&labelColor=991c00&label=11%)
 ![](https://img.shields.io/badge/Général-%23232323?style=for-the-badge&labelColor=339900&label=100%)
-</summary>
+
+<details><summary>Modules</summary>
 
 - [x] [InfoSec Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations) skill path
 - [x] [OS Fundamentals](https://academy.hackthebox.com/path/preview/operating-system-fundamentals) skill path
@@ -135,10 +134,11 @@
 
 ### [Lab](https://www.hackthebox.com/hacker/hacking-labs)
 
-<details><summary>Détails
 
 ![](https://img.shields.io/badge/Challenges-%23232323?style=for-the-badge&labelColor=990000&label=0%)
-</summary>
+![](https://img.shields.io/badge/Boxes-%23232323?style=for-the-badge&labelColor=990000&label=0%)
+
+<details><summary>Challenges</summary>
 
 - [ ] [ 02% ] Reversing
 - [ ] [ 00% ] Web
@@ -153,10 +153,7 @@
 - [ ] [ 00% ] Blockchain
 </details>
 
-<details><summary>Détails
-
-![](https://img.shields.io/badge/Boxes-%23232323?style=for-the-badge&labelColor=990000&label=0%)
-</summary>
+<details><summary>Boxes</summary>
 
 - [ ] [ 00% ] Linux
 - [ ] [ 01% ] Windows
