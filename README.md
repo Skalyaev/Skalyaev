@@ -80,7 +80,7 @@
 
 - Pentest
 - Security dev
-- Bug bounty hunt
+- Bug bounty
 </details>
 
 > [42](https://42.fr/) forme d'excellents programmeurs
