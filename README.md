@@ -6,7 +6,7 @@
 ### Branche Sécurité
 
 ![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=009921&label=4/3)
-![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=00998f&label=88k/50k)
+![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=006999&label=99k/50k)
 
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
@@ -73,7 +73,7 @@
 
 ### Conditions supplémentaires
 
-![](https://img.shields.io/badge/Niveau-%23232323?style=for-the-badge&labelColor=949900&label=13/21)
+![](https://img.shields.io/badge/Niveau-%23232323?style=for-the-badge&labelColor=7d9900&label=15/21)
 ![](https://img.shields.io/badge/Stages-%23232323?style=for-the-badge&labelColor=990000&label=0/2)
 
 <details><summary>Recherche un stage en ...</summary>
