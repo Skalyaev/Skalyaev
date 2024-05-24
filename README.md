@@ -41,7 +41,7 @@
 |:-|:-:|-:|
 | ft_strace | Implémentation partielle de `strace` en C | Dev & Unix |
 | lem-ipc | Exercice de communication inter-processus en C | Dev & Unix |
-| malloc | Implémentation de `malloc`, `realloc` et `free` en C | Dev & Unix |
+| [malloc](https://github.com/Skalyaeve/malloc) | Implémentation de `malloc`, `realloc` et `free` en C | Dev & Unix |
 | [libasm](https://github.com/Skalyaeve/libasm) | Introduction au langage assembleur | Dev & Unix |
 </details>
 
