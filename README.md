@@ -59,7 +59,7 @@
 | [ft_containers](https://github.com/Skalyaeve/ft_containers) | Implémentation de quelques conteneurs C++ | Dev |
 | [cpp_modules](https://github.com/Skalyaeve/cpp_modules) | Introduction au C++ | Dev |
 | [cub3d](https://github.com/Skalyaeve/cub3d) | Raycaster (DOOM like) en C | Graphic Dev |
-| [net_practice](https://github.com/Skalyaeve/net_practice) | Introduction à l'administration réseau | Réseau |
+| [net_practice](https://github.com/Skalyaeve/net_practice) | Introduction à l'administration réseau | Admin sys & Réseau |
 | [minishell](https://github.com/Skalyaeve/minishell) | Interpréteur de commandes Unix en C | Dev & Unix |
 | [philosophers](https://github.com/Skalyaeve/philosophers) | Introduction au multi-threading | Dev |
 | [pipex](https://github.com/Skalyaeve/pipex) | Exercice de redirection de flux Unix en C | Dev & Unix |
