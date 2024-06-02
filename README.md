@@ -33,8 +33,8 @@
 
 ### Branche Unix - Kernel
 
-![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=998000&label=1/2)
-![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=990800&label=1k/30k)
+![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=339900&label=2/2)
+![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=997000&label=13k/30k)
 
 ##### Projets séléctionés ▷
 | Nom | Description | Domaine |
