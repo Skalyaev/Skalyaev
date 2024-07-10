@@ -1,4 +1,3 @@
-# :star: A road as a cybersecurity specialist :star:
 > Cette page présente mon expérience post-bac
 
 ## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
@@ -70,101 +69,6 @@
 | [get_next_line](https://github.com/Skalyaeve/get_next_line) | Exercice de parsing en C | Dev |
 | [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Dev |
 </details>
-
-### Conditions supplémentaires
-
-![](https://img.shields.io/badge/Niveau-%23232323?style=for-the-badge&labelColor=709900&label=16/21)
-![](https://img.shields.io/badge/Stages-%23232323?style=for-the-badge&labelColor=990000&label=0/2)
-
-<details><summary>Recherche un stage en ...</summary>
-
-- Pentest
-- Security dev
-- Bug bounty
-</details>
-
-> [42](https://42.fr/) forme d'excellents programmeurs
-
-## [Root Me](https://www.root-me.org/Skalyaeve)
-
-[![](https://img.shields.io/badge/Classement-%23232323?style=for-the-badge&labelColor=424242&label=%233433)](https://www.root-me.org/Skalyaeve)
-[![](https://img.shields.io/badge/Challenges-%23232323?style=for-the-badge&labelColor=994200&label=26%25)](https://www.root-me.org/fr/Challenges/)
-[![](https://img.shields.io/badge/Contributions-%23232323?style=for-the-badge&labelColor=424242&label=4)](https://www.root-me.org/Skalyaeve)
-
-<details><summary>Détails</summary>
-
-- [ ] [ 72% ] [Programmation](https://www.root-me.org/fr/Challenges/Programmation/)
-- [ ] [ 21% ] [App - Système](https://www.root-me.org/fr/Challenges/App-Systeme/)
-- [ ] [ 78% ] [App - Script](https://www.root-me.org/fr/Challenges/App-Script/)
-- [ ] [ 30% ] [Cracking](https://www.root-me.org/fr/Challenges/Cracking/)
-- [ ] [ 55% ] [Réseau](https://www.root-me.org/fr/Challenges/Reseau/)
-- [ ] [ 21% ] [Web - Client](https://www.root-me.org/fr/Challenges/Web-Client/)
-- [ ] [ 22% ] [Web - Serveur](https://www.root-me.org/fr/Challenges/Web-Serveur/)
-- [ ] [ 23% ] [Cryptanalyse](https://www.root-me.org/fr/Challenges/Cryptanalyse/)
-- [ ] [ 26% ] [Stéganographie](https://www.root-me.org/fr/Challenges/Steganographie/)
-- [ ] [ 02% ] [Forensic](https://www.root-me.org/fr/Challenges/Forensic/)
-- [ ] [ 01% ] [Réaliste](https://www.root-me.org/fr/Challenges/Realiste/)
-</details>
-
-> [Root me](https://www.root-me.org) est un challenge cybersécurité de taille
-
-## `new` [Hack The Box](https://app.hackthebox.com/profile/1772537)
-
-### [Académie](https://academy.hackthebox.com/catalogue)
-
-![](https://img.shields.io/badge/Red%20Team-%23232323?style=for-the-badge&labelColor=993b00&label=23%)
-![](https://img.shields.io/badge/Blue%20Team-%23232323?style=for-the-badge&labelColor=991c00&label=11%)
-![](https://img.shields.io/badge/Général-%23232323?style=for-the-badge&labelColor=339900&label=100%)
-
-<details><summary>Modules</summary>
-
-- [x] [InfoSec Foundations](https://academy.hackthebox.com/path/preview/information-security-foundations) skill path
-- [x] [OS Fundamentals](https://academy.hackthebox.com/path/preview/operating-system-fundamentals) skill path
-- [x] [Local PrivEsc](https://academy.hackthebox.com/path/preview/local-privilege-escalation) skill path
-- [x] [Binary Exploitation](https://academy.hackthebox.com/path/preview/intro-to-binary-exploitation) skill path
-- [x] [SOC Analyst Prerequisites](https://academy.hackthebox.com/path/preview/soc-analyst-prerequisites) skill path
-- [x] [Basic Toolset](https://academy.hackthebox.com/path/preview/basic-toolset) skill path
-- [ ] [ 45% ] [CREST CPSA/CRT Preparation](https://academy.hackthebox.com/path/preview/crest-cpsacrt-preparation) skill path
-- [ ] [ 47% ] [CREST CCT APP Preparation](https://academy.hackthebox.com/path/preview/crest-cct-app-preparation) skill path
-- [ ] [ 40% ] [CREST CCT INF Preparation](https://academy.hackthebox.com/path/preview/crest-cct-inf-preparation) skill path
-- [ ] [ 43% ] [Penetration Tester](https://academy.hackthebox.com/path/preview/penetration-tester) job role path
-- [ ] [ 47% ] [Bug Bounty Hunter](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) job role path
-- [ ] [ 29% ] [SOC Analyst](https://academy.hackthebox.com/path/preview/soc-analyst) job role path
-</details>
-
-### [Lab](https://www.hackthebox.com/hacker/hacking-labs)
-
-
-![](https://img.shields.io/badge/Challenges-%23232323?style=for-the-badge&labelColor=990000&label=0%)
-![](https://img.shields.io/badge/Boxes-%23232323?style=for-the-badge&labelColor=990000&label=0%)
-
-<details><summary>Challenges</summary>
-
-- [ ] [ 02% ] Reversing
-- [ ] [ 00% ] Web
-- [ ] [ 00% ] Mobile
-- [ ] [ 01% ] Pwn
-- [ ] [ 00% ] GamePwn
-- [ ] [ 00% ] Misc
-- [ ] [ 01% ] Crypto
-- [ ] [ 00% ] Forensics
-- [ ] [ 00% ] OSINT
-- [ ] [ 00% ] Hardware
-- [ ] [ 00% ] Blockchain
-</details>
-
-<details><summary>Boxes</summary>
-
-- [ ] [ 00% ] Linux
-- [ ] [ 01% ] Windows
-- [ ] [ 00% ] Android
-- [ ] [ 00% ] OpenBSD
-- [ ] [ 00% ] FreeBSD
-- [ ] [ 00% ] Solaris
-- [ ] [ 00% ] Other
-</details>
-
-> [Hack The Box](https://www.hackthebox.com/) est une formation cybersécurité complète
 
 #
 
