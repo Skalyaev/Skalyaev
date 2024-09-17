@@ -1,5 +1,3 @@
-# ⭐ Expert en Architecture Informatique ⭐
-
 > Cette page présente mon expérience post-bac
 
 ## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
