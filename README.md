@@ -1,13 +1,7 @@
-> Cette page présente mon expérience post-bac
-
-## 42 - [RNCP niv.7](https://www.francecompetences.fr/recherche/rncp/36137/) *(bac+5)*
+## 42 - [RNCP 7](https://www.francecompetences.fr/recherche/rncp/36137/) *(BAC+5 - Expert en architecture informatique)*
 
 ### Branche Sécurité
 
-![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=009977&label=5/3)
-![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=001E99&label=114k/50k)
-
-##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
 | unleashthebox | Rush `Elite-Hacker` sur [HTB](https://www.hackthebox.com/hacker/hacking-labs) | Divers |
@@ -19,10 +13,6 @@
 
 ### Branche Admin Sys & Réseau
 
-![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=990000&label=0/3)
-![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=990000&label=0k/50k)
-
-##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
 | badass | Routage BGP EVPN via Docker | Admin sys & Réseau |
@@ -32,10 +22,6 @@
 
 ### Branche Unix - Kernel
 
-![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=339900&label=2/2)
-![](https://img.shields.io/badge/Expérience-%23232323?style=for-the-badge&labelColor=997000&label=13k/30k)
-
-##### Projets séléctionés ▷
 | Nom | Description | Domaine |
 |:-|:-:|-:|
 | ft_strace | Implémentation partielle de `strace` en C | Dev & Unix |
@@ -45,8 +31,6 @@
 </details>
 
 ### Tronc Commun
-
-![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=249900&label=16/15)
 
 | Nom | Description | Domaine |
 |:-|:-:|-:|
