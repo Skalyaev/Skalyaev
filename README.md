@@ -48,8 +48,6 @@
 
 ![](https://img.shields.io/badge/Projets-%23232323?style=for-the-badge&labelColor=249900&label=16/15)
 
-<details><summary>Projets séléctionés</summary>
-
 | Nom | Description | Domaine |
 |:-|:-:|-:|
 | [ft_transcendence](https://github.com/Skalyaeve/ft_transcendence) | Application web en Nest et React via Docker | Web Dev |
@@ -68,9 +66,3 @@
 | [ft_printf](https://github.com/Skalyaeve/ft_printf) | Implémentation partielle de `printf` en C | Dev |
 | [get_next_line](https://github.com/Skalyaeve/get_next_line) | Exercice de parsing en C | Dev |
 | [libft](https://github.com/Skalyaeve/libft) | Quelques fonctions de la libc en C | Dev |
-</details>
-
-#
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=skalyaev&theme=dark&locale=en&layout=compact&border_radius=0)
-
