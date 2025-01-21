@@ -24,7 +24,7 @@
 
 | Nom | Description | Domaine |
 |:-|:-:|-:|
-| ft_strace | Implémentation partielle de `strace` en C | Dev & Unix |
+| [ft_strace](https://github.com/Skalyaev/ft_strace) | Implémentation partielle de `strace` en C | Dev & Unix |
 | [lem-ipc](https://github.com/Skalyaev/lem-ipc) | Exercice de communication inter-processus en C | Dev & Unix |
 | [malloc](https://github.com/Skalyaev/malloc) | Implémentation de `malloc`, `realloc` et `free` en C | Dev & Unix |
 | [libasm](https://github.com/Skalyaev/libasm) | Introduction au langage assembleur | Dev & Unix |
