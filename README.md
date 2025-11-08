@@ -15,7 +15,7 @@
 
 | Nom | Description | Domaine |
 |:-|:-:|-:|
-| [badass](https://github.com/Skalyaev/badass) | Routage BGP EVPN via Docker | Admin sys & Réseau |
+| [badass](https://github.com/Skalyaev/badass) | Routage BGP EVPN via Docker & GNS3 | Admin sys & Réseau |
 | [inception-of-things](https://github.com/Skalyaev/inception-of-things) | Introduction à Kubernetes | Admin sys & Réseau |
 | [ft_nmap](https://github.com/Skalyaev/ft_nmap) | Implémentation partielle de `nmap` en C | Dev & Réseau |
 | [ft_traceroute](https://github.com/Skalyaev/ft_traceroute) | Implémentation partielle de `traceroute` en C | Dev & Réseau |
